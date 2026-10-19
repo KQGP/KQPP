@@ -20,6 +20,3 @@ See `Versions Used.txt` (UGS 2.1.0, Inkscape 0.48.5 / 0.92.5 / 1.3.2).
 2. Install GRBL Plotter (`GRBL-Plotter_Setup_1710c.exe`).
 3. Flash GRBL firmware to your Arduino/plotter controller using `xLoader`.
 4. Use Inkscape + extension to generate G-code; send via UGS/GRBL Plotter.
-
-## 📄 License
-No license specified (third-party tools retain their own licenses).
